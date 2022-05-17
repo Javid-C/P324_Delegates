@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.exe
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.deps.json
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.dll
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\bin\Debug\netcoreapp3.1\P324_Delegates.pdb
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.dll
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.pdb
+C:\Users\Lenovo\source\repos\P324_Delegates\P324_Delegates\obj\Debug\netcoreapp3.1\P324_Delegates.genruntimeconfig.cache
